@@ -1,0 +1,138 @@
+/* header part start */
+.header-parent{
+    display: flex;
+    height: 90vh;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f0ccd35f;
+    padding:0px 130px;
+}
+.img{
+    width: 500px;
+    height: 600px;
+    margin-top: 80px;
+}
+.heding{
+    font-size: 50px;
+}
+.desp{
+    width: 70%;
+    color: gray;
+}
+.btn{
+    padding: 10px 18px;
+    border-radius: 6px;
+    background-color: #E55473;
+    color: white;
+    border: none;
+    font-size: 12px;
+    margin-top: 8px;
+}
+/* header part end */
+/* main part start */
+.main-parent-one{
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 25px;
+}
+.desp2{
+    color: gray;
+    font-size: 14px;
+}
+.main-img-parent{
+ display: flex;
+ justify-content: space-between;
+ padding:50px 5px;
+ margin-left: 13%;
+ width: 70%;
+ margin-top: 20px;
+}
+.img1{
+    width: 200px;
+    /* margin-top: 25px; */
+  
+}
+.img2{
+margin-top: 75px;
+}
+.img3{
+margin-top: 50px;
+
+}
+.img4{
+    width: 213px;
+}
+.main-img-child1{
+    display: flex;
+    height: 350px;
+    align-items: center;
+    width: 280px;
+    padding-left: 60px;
+    border-top-right-radius: 90%;
+    border-top-left-radius: 90%;
+    background-color: #f5c4dcb0;
+   
+   
+}
+.main-img-child2{
+    display: flex;
+    height: 350px;
+    align-items: center;
+    width: 280px;
+    padding-left: 60px;
+    border-top-right-radius: 90%;
+    border-top-left-radius: 90%;
+    background-color: #9bc6c8c8;
+   
+   
+}
+.main-img-child3{
+    display: flex;
+    height: 350px;
+    align-items: center;
+    width: 280px;
+    padding-left: 60px;
+    border-top-right-radius: 90%;
+    border-top-left-radius: 90%;
+    background-color: #cde0bca5;
+   
+   
+}
+.img-name-parent{
+    display: flex;
+    margin-top: -50px;
+    justify-content: space-around;
+  
+
+   
+}
+.img-nam-hading1{
+    margin-left: 8%;
+}
+.img-nam-hading2{
+    margin-left: -8%;
+}
+.img-nam-hading3{
+    margin-right: 12%;
+}
+
+/* main part end */
+/* rose part start */
+.rose-parent{
+    display: flex;
+    justify-content: space-around;
+    padding: 40px 258px;
+    height: 40vh;
+    background-color: #f4d9dee6;
+    align-items: center;
+}
+.rose{
+    width: 200px;
+}
+.rese-heading{
+    font-size: 30px;
+}
+.span{
+    color: #E55473ed;
+}
+/* rose section end */
